@@ -17,7 +17,7 @@
 * @param float $a El primer número a sumar.
 * @param float $b El segundo número a sumar.
 * @return float La suma de los dos números.
-* @internal Este es un comentario interno que solo debería ser visible en la documentación para desarrolladores. 
+* @internal Este es un comentario interno que solo debería ser visible en la documentación para desarrolladores. Segunda version 
 */
 function sumar(float $a, float $b) {
 return $a + $b;
