@@ -6,7 +6,7 @@
 *
 * @package Calculadora
 * @author Juan Antonio Cabeza Guisado
-* @version 2.0
+* @version 2.0 
 */
 
 /**
